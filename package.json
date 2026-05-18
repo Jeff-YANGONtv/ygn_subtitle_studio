@@ -1,0 +1,8 @@
+{
+  "name": "ygn-subtitle-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "/tmp/flutter/bin/flutter analyze && /tmp/flutter/bin/flutter test"
+  }
+}
