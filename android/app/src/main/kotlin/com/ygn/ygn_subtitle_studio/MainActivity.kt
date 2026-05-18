@@ -1,0 +1,5 @@
+package com.ygn.ygn_subtitle_studio
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
